@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+Netflix Landing Page Clone
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A responsive Netflix landing page clone built using HTML and CSS. This project was originally created during my college days to learn frontend fundamentals and was recently revisited to test my CSS grip and implement smooth UI transitions
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
